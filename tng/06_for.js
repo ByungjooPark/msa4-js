@@ -57,5 +57,7 @@ for(let i = 0; i < 5; i++) {
     star += '*';
   }
   
-  console.log(`${space}${star}`);
+  console.log(`고고고고곡고ㅗ${space}${star}`);
 }
+
+// 고고고곡 수정
